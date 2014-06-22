@@ -8,7 +8,7 @@ a = 0 # multiple of 3 test variable
 b = 0 # multiple of 5 test variable
 
 #run loop 100 times; i incremented at end of loop:
-while i < 101:
+while i < 10001:
 	#store index as string (and space for formatting)
 	c = str(i) + ' '
 	#test for multiple of 3 using only integer math. Since i/3 will return a
